@@ -1,0 +1,10 @@
+id int 10
+name var 30
+gender int 1
+mobile var 30
+email var 200
+con text
+mypostal int 10
+mycity int 10
+myarea int 10
+address var 300
